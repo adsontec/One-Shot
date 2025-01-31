@@ -27,6 +27,7 @@ Ao presionar o botão será acionado os LEDs (sinais do semáforo) deve iniciar 
 
 https://github.com/user-attachments/assets/aa1839ee-6c12-4396-9cc6-dd514da42443
 
+## Imagem do Projeto
 
 ![image](https://github.com/user-attachments/assets/1e7ff3f0-080c-4b58-a68e-2762ef6c1719)
 
